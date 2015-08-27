@@ -1,0 +1,7 @@
+.container .tile-inner { overflow: hidden; text-indent: -9999px; }
+.container .tile-2 .tile-inner { background: url('../img/memelopers.jpg') 0 0 no-repeat; }
+.container .tile-4 .tile-inner { background: url('../img/memelopers.jpg') -107px 0 no-repeat; }
+.container .tile-8 .tile-inner { background: url('../img/memelopers.jpg') -214px 0 no-repeat; }
+.container .tile-16 .tile-inner { background: url('../img/memelopers.jpg') -321px 0 no-repeat; }
+.container .tile-32 .tile-inner { background: url('../img/memelopers.jpg') -428px 0 no-repeat; }
+.container .tile-64 .tile-inner { background: url('../img/memelopers.jpg') -535px 0 no-repeat; }
