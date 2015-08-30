@@ -1,7 +1,12 @@
 .container .tile-inner { overflow: hidden; text-indent: -9999px; }
 .container .tile-2 .tile-inner { background: url('../img/memelopers.jpg') 0 0 no-repeat; }
-.container .tile-4 .tile-inner { background: url('../img/memelopers.jpg') -107px 0 no-repeat; }
-.container .tile-8 .tile-inner { background: url('../img/memelopers.jpg') -214px 0 no-repeat; }
-.container .tile-16 .tile-inner { background: url('../img/memelopers.jpg') -321px 0 no-repeat; }
-.container .tile-32 .tile-inner { background: url('../img/memelopers.jpg') -428px 0 no-repeat; }
-.container .tile-64 .tile-inner { background: url('../img/memelopers.jpg') -535px 0 no-repeat; }
+.container .tile-4 .tile-inner { background: url('../img/memelopers.jpg') -1010px 0 no-repeat; }
+.container .tile-8 .tile-inner { background: url('../img/memelopers.jpg') -222px 0 no-repeat; }
+.container .tile-16 .tile-inner { background: url('../img/memelopers.jpg') -115px 0 no-repeat; }
+.container .tile-32 .tile-inner { background: url('../img/memelopers.jpg') -1126px 0 no-repeat; }
+.container .tile-64 .tile-inner { background: url('../img/memelopers.jpg') -444px 0 no-repeat; }
+.container .tile-128 .tile-inner { background: url('../img/memelopers.jpg') -669px 0 no-repeat; }
+.container .tile-256 .tile-inner { background: url('../img/memelopers.jpg') -335px 0 no-repeat; }
+.container .tile-512 .tile-inner { background: url('../img/memelopers.jpg') -786px 0 no-repeat; }
+.container .tile-1024 .tile-inner { background: url('../img/memelopers.jpg') -902px 0 no-repeat; }
+.container .tile-2048 .tile-inner { background: url('../img/memelopers.jpg') -562px 0 no-repeat; }
